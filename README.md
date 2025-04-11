@@ -18,8 +18,8 @@ Computer Vision Project
 
 
 #### Report and presentation
-* [report portuguese version (pdf)](https://github.com/ruipoliveira/leaves-classification-opencv/blob/master/docs/VC1617_report_project.pdf) 
-* [presentation (pdf)](https://github.com/ruipoliveira/leaves-classification-opencv/blob/master/docs/VC1617_presentation.pdf)
+* [report portuguese version (pdf)](https://github.com/toomyy94/leaves-classification-opencv/blob/master/docs/VC1617_report_project.pdf) 
+* [presentation (pdf)](https://github.com/toomyy94/leaves-classification-opencv/blob/master/docs/VC1617_presentation.pdf)
 
 
 #### Authors
